@@ -1,6 +1,4 @@
 from turtle import Screen
-
-from Snake_game import scoreboard
 from food import Food
 from scoreboard import Scoreboard
 import time
